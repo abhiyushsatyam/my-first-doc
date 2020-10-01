@@ -19,7 +19,6 @@ int main()
     gquiz1.insert(pair<int, int>(6, 50)); 
     gquiz1.insert(pair<int, int>(7, 10)); 
   
-    // printing map gquiz1 
     map<int, int>::iterator itr; 
     cout << "\nThe map gquiz1 is : \n"; 
     cout << "\tKEY\tELEMENT\n"; 
