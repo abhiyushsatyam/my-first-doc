@@ -7,7 +7,7 @@ int main()
     arr[0] = 5; 
     arr[2] = -10; 
   
-    // this is same as arr[1] = 2 
+    // this is same as arr[1] = 2 just some change
     arr[3 / 2] = 2; 
     arr[3] = arr[0]; 
   
